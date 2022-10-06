@@ -2,3 +2,13 @@
     margin: 1rem;
 
 }
+
+p {
+    font-size: 18px;
+    line-height: 24px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 1rem;
+}
